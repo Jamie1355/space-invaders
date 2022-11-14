@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1555360854 source:c:\users\jamie\dropbox\university\year 1\acs130\assignments\acs130_006 assignment\space invaders\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<unistd.h>
+
+1557162722 source:c:\users\user\dropbox\university\year 1\acs130\assignments\acs130_006 assignment\space invaders\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+
